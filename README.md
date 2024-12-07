@@ -9,9 +9,9 @@ I'm a passionate Software Engineer with expertise in Microsoft Power Platform, a
 
 ### 👨‍💻 What I’m Working On:
 
-🛠 Building: IoT-powered solutions and enterprise automation with Microsoft Power Tools.
-🚀 Exploring: Advanced AI services, IT automation, and cloud-native architectures.
-📚 Learning: Deep integration with Azure AI, SwiftUI, and machine learning techniques.
+- 🛠 Building: IoT-powered solutions and enterprise automation with Microsoft Power Tools.
+- 🚀 Exploring: Advanced AI services, IT automation, and cloud-native architectures.
+- 📚 Learning: Deep integration with Azure AI, SwiftUI, and machine learning techniques.
 
 ### 📫 How to Reach Me:
 
