@@ -2,17 +2,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
 
-### Glad to see you here!
+### Welcome to my digital space! 🎉
 
-I'm a passionate Software Engineer specializing in Power Platform development, automation solutions, and Azure technologies. With a strong background in streamlining business processes and delivering innovative software solutions, I aim to craft systems that are efficient, scalable, and user-friendly.
-
-Like My Work?
-
-### Talking about Personal Stuff:
+I'm a passionate Software Engineer with expertise in Microsoft Power Platform, automation solutions, and Azure technologies. I specialize in building scalable, user-friendly systems that streamline workflows and leverage modern technologies like AI, IoT, and Cloud Services.
 
 
-- 🛠 &nbsp; I’m currently working with Typescript, Microsoft Azure Services, Networks, Linux, IT Adminstration
-- 🚀 &nbsp; I’m currently exploring IoT, Power Tools, Azure AI
+### 👨‍💻 What I’m Working On:
+
+🛠 Building: IoT-powered solutions and enterprise automation with Microsoft Power Tools.
+🚀 Exploring: Advanced AI services, IT automation, and cloud-native architectures.
+📚 Learning: Deep integration with Azure AI, SwiftUI, and machine learning techniques.
 
 ### 📫 How to Reach Me:
 
@@ -20,7 +19,7 @@ Like My Work?
 - 💼 LinkedIn: https://www.linkedin.com/in/zakaria-masood-a543a1212/
 - 🔗 GitHub: https://github.com/Zakaria-masood20
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
@@ -32,6 +31,22 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
+
+### 🌟 Highlighted Projects:
+
+IoT-Based Transport Tracking
+
+Real-time tracking and monitoring using Node MCU ESP8266 and GPS modules.
+iOS Chatbot App
+
+Advanced chatbot with SwiftUI, LLM integration, and Azure Entra ID for secure, interactive experiences.
+Flight Reservation System
+
+User-friendly booking system powered by Canvas Apps, Power Pages, and Power Automate for operational efficiency.
+Facial & Gait Recognition System
+
+Biometric recognition system achieving 98% accuracy using Random Forest models and Mediapipe.
+
 
 ### Projects and Dev Stuffs:
 
