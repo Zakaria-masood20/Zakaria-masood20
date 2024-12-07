@@ -34,16 +34,16 @@ I'm a passionate Software Engineer with expertise in Microsoft Power Platform, a
 
 ### 🌟 Highlighted Projects
 
-1. **[IoT-Based Transport Tracking](https://github.com/Zakaria-masood20/IoT-Transport-Tracking)**  
+1. **[IoT-Based Transport Tracking](https://github.com/Zakaria-masood20)**  
    - Real-time tracking and monitoring using **Node MCU ESP8266** and **GPS modules**.  
 
-2. **[iOS Chatbot App](https://github.com/Zakaria-masood20/Chatbot-App)**  
+2. **[iOS Chatbot App](https://github.com/Zakaria-masood20)**  
    - Advanced chatbot with **SwiftUI**, LLM integration, and Azure Entra ID for secure, interactive experiences.  
 
-3. **[Flight Reservation System](https://github.com/Zakaria-masood20/Flight-Reservation-System)**  
+3. **[Flight Reservation System](https://github.com/Zakaria-masood20)**  
    - User-friendly booking system powered by **Canvas Apps**, **Power Pages**, and **Power Automate** for operational efficiency.  
 
-4. **[Facial & Gait Recognition System](https://github.com/Zakaria-masood20/Facial-Gait-Recognition)**  
+4. **[Facial & Gait Recognition System](https://github.com/Zakaria-masood20)**  
    - Biometric recognition system achieving 98% accuracy using **Random Forest models** and **Mediapipe**.
 
 
