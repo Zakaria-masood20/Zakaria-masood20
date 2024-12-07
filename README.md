@@ -32,23 +32,23 @@ I'm a passionate Software Engineer with expertise in Microsoft Power Platform, a
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
 
-### 🌟 Highlighted Projects:
+### 🌟 Highlighted Projects
 
-IoT-Based Transport Tracking
+1. **[IoT-Based Transport Tracking](https://github.com/Zakaria-masood20/IoT-Transport-Tracking)**  
+   - Real-time tracking and monitoring using **Node MCU ESP8266** and **GPS modules**.  
 
-Real-time tracking and monitoring using Node MCU ESP8266 and GPS modules.
-iOS Chatbot App
+2. **[iOS Chatbot App](https://github.com/Zakaria-masood20/Chatbot-App)**  
+   - Advanced chatbot with **SwiftUI**, LLM integration, and Azure Entra ID for secure, interactive experiences.  
 
-Advanced chatbot with SwiftUI, LLM integration, and Azure Entra ID for secure, interactive experiences.
-Flight Reservation System
+3. **[Flight Reservation System](https://github.com/Zakaria-masood20/Flight-Reservation-System)**  
+   - User-friendly booking system powered by **Canvas Apps**, **Power Pages**, and **Power Automate** for operational efficiency.  
 
-User-friendly booking system powered by Canvas Apps, Power Pages, and Power Automate for operational efficiency.
-Facial & Gait Recognition System
-
-Biometric recognition system achieving 98% accuracy using Random Forest models and Mediapipe.
+4. **[Facial & Gait Recognition System](https://github.com/Zakaria-masood20/Facial-Gait-Recognition)**  
+   - Biometric recognition system achieving 98% accuracy using **Random Forest models** and **Mediapipe**.
 
 
-### Projects and Dev Stuffs:
+
+### 📊 Projects and Dev Stuffs:
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
