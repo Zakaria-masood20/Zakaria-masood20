@@ -13,7 +13,12 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with Typescript, Microsoft Azure Services, Networks, Linux, IT Adminstration
 - 🚀 &nbsp; I’m currently exploring IoT, Power Tools, Azure AI
-- 📫 &nbsp; Reach me out: mzakariamasood@gmail.com
+
+### 📫 How to Reach Me:
+
+- 📧 Email: mzakariamasood@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/zakaria-masood-a543a1212/
+- 🔗 GitHub: https://github.com/Zakaria-masood20
 
 ### Languages and Tools:
 
