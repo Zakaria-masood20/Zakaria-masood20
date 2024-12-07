@@ -14,7 +14,7 @@ Like My Work?
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Typo 3 CMS, Networks, Linux, IT Adminstration
+- 🛠 &nbsp; I’m currently working with Typescript, Microsoft Azure Services, Networks, Linux, IT Adminstration
 - 🚀 &nbsp; I’m currently exploring IoT, Power Tools, Azure AI
 - 📫 &nbsp; Reach me out: mzakariamasood@gmail.com
 
